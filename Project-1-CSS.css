@@ -1,0 +1,62 @@
+below styles.css
+
+.header {
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    background: violet;
+    margin: 10px;
+}
+
+.phoneMenu {
+    background: yellowgreen;
+}
+
+.phone {
+    background: violet;
+    margin: 10px;
+    width: 150px;
+}
+
+.menu {
+    background: tomato;
+    margin: 10px;
+    width: 200px;
+}
+
+.image {
+    background: yellow;
+    padding: 10px;
+}
+
+.contentSidebar {
+    background: yellowgreen;
+    display: flex;
+    padding: 10px;
+}
+
+.content {}
+
+.sidebar {
+    margin: 10px;
+}
+
+.footer {
+    background: violet;
+    padding: 10px;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    max-width: 980px;
+    margin: auto;
+}
